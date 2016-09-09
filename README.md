@@ -32,6 +32,10 @@ The client instance is started in much the same way:
 
 For full details please refer to the blog posts mentioned above.
 
+### Consul members ###
+
+consul members --rpc-addr=172.20.20.10:8400
+
 ### Accessing the Consul Web UI ###
 
 Once the cluster is up-and-running you will be able to access the Consul Web UI from a browser running on your host workstation by going to the following URL: [http://172.20.20.40:8500/ui/](http://http://172.20.20.40:8500/ui/).

@@ -1,9 +1,8 @@
 {
-  "bootstrap": false,
   "server": false,
   "datacenter": "dc1",
   "data_dir": "/var/consul",
-  "ui_dir": "/usr/local/bin/dist",
+  "ui_dir": "/home/consul",
   "encrypt": "Gf/nf3aLOX9WrUGPC513xg==",
   "log_level": "INFO",
   "enable_syslog": true,
